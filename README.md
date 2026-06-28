@@ -58,13 +58,7 @@ week3-library-system/
 
 ## 🚀 Build & Run
 
-### Option 1 — One-click Batch Script (Windows, no Maven needed)
-
-```bat
-run.bat
-```
-
-### Option 2 — Manual `javac` (any OS)
+### Option 1 — Manual `javac` (any OS)
 
 ```bash
 # Compile
@@ -74,7 +68,7 @@ javac -d out src/main/java/library/*.java
 java -cp out library.Main
 ```
 
-### Option 3 — Maven (fat JAR)
+### Option 2 — Maven (fat JAR)
 
 ```bash
 mvn clean package -q
