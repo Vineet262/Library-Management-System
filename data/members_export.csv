@@ -1,0 +1,7 @@
+ID,Name,Email,Phone,BorrowedISBNs,ReservedISBNs,TotalFinesPaid
+"MEM001","Alice Smith","alice@example.com","555-1001","9781617294945","",0.00
+"MEM002","Bob Johnson","bob@example.com","555-1002","9780132350884","",2.50
+"MEM003","Carol White","carol@example.com","555-1003","","9780132350884",0.00
+"MEM004","David Lee","david@example.com","555-1004","","",0.00
+"MEM005","Eva Martinez","eva@example.com","555-1005","","",5.00
+"1020","alex martin","alex@gmail.com","97845698","","",0.00

@@ -1,0 +1,6 @@
+MEM001|Alice Smith|alice@example.com|555-1001|9781617294945|NONE|0.0
+MEM002|Bob Johnson|bob@example.com|555-1002|9780132350884|NONE|2.5
+MEM003|Carol White|carol@example.com|555-1003|NONE|9780132350884|0.0
+MEM004|David Lee|david@example.com|555-1004|NONE|NONE|0.0
+MEM005|Eva Martinez|eva@example.com|555-1005|NONE|NONE|5.0
+1020|alex martin|alex@gmail.com|97845698|NONE|NONE|0.0

@@ -1,0 +1,11 @@
+9780134685991|Effective Java|Joshua Bloch|2018|Programming|true|NULL|NULL|NULL
+9781617294945|Spring in Action|Craig Walls|2020|Frameworks|false|MEM001|2026-07-03|NULL
+9781492052205|Fluent Python|Luciano Ramalho|2021|Programming|true|NULL|NULL|NULL
+9780596517748|JavaScript: The Good Parts|Douglas Crockford|2008|Web|true|NULL|NULL|NULL
+9781491950357|Learning Python|Mark Lutz|2013|Programming|true|NULL|NULL|NULL
+9780132350884|Clean Code|Robert C. Martin|2008|Software Engineering|false|MEM002|2026-06-25|MEM003
+9781491927281|Java: The Complete Reference|Herbert Schildt|2022|Programming|true|NULL|NULL|NULL
+9780201633610|Design Patterns|Gang of Four|1994|Software Engineering|true|NULL|NULL|NULL
+9781492056379|Head First Design Patterns|Eric Freeman|2020|Software Engineering|true|NULL|NULL|NULL
+9780596009205|Head First Java|Kathy Sierra|2005|Programming|true|NULL|NULL|NULL
+dbms|database|spandana|2024|course|true|NULL|NULL|NULL
