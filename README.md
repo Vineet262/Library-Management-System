@@ -10,23 +10,21 @@ input validation, and a fully interactive menu UI.
 
 ```
 week3-library-system/
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── library/
-│   │           ├── Main.java          ← Console UI & entry point
-│   │           ├── Book.java          ← Book entity (ISBN, title, author, overdue logic)
-│   │           ├── Member.java        ← Member entity (borrow limit, reservations)
-│   │           ├── Library.java       ← Core business logic & service layer
-│   │           └── FileHandler.java   ← File I/O & CSV export
-│   └── resources/
-│       └── config.properties          ← Configuration reference
-├── data/
-│   ├── books.txt                      ← Persistent book store (auto-created)
-│   └── members.txt                    ← Persistent member store (auto-created)
-├── run.bat                            ← One-click build & run (Windows)
-├── README.md
-├── .gitignore
+│── src/
+│ ├── main/
+│ │ ├── java/
+│ │ │ ├── library/
+│ │ │ │ ├── Main.java
+│ │ │ │ ├── Book.java
+│ │ │ │ ├── Member.java
+│ │ │ │ ├── Library.java
+│ │ │ │ └── FileHandler.java
+│ ├── resources/
+│── data/
+│ ├── books.txt
+│ └── members.txt
+│── README.md
+│── .gitignore
 └── pom.xml
 ```
 
